@@ -1,0 +1,43 @@
+body {
+  background-color: aquamarine;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 14px
+}
+
+h1 {
+  background-color: yellow;
+}
+
+.recipes_heading {
+  background-color: darkgreen;
+  color: white;
+}
+
+.recipes_list {
+  background-color: lightcyan
+}
+
+.index-images {
+  height: auto;
+  width: 600px;
+}
+
+.recipe-images {
+  height: auto;
+  width: 600px;
+}
+
+.description {
+  background-color: azure;
+  color: purple;
+}
+
+.ingredients {
+  background-color: antiquewhite;
+  color: rgb(59, 156, 163);
+}
+
+.steps {
+  background-color: black;
+  color: yellow;
+}
